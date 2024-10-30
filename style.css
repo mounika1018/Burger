@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.out1{
+    border: solid 1px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+#in1,#in2{
+    border: solid 1px;
+    height: 100px;
+}
+#in1{
+    width: 100px;
+    margin-left: 100px;
+}
+#in2{
+    width: 600px;
+  
+}
+ul{
+    list-style: none;
+}
+ul li{
+    border: solid 1px;
+    height: 100px;
+    width: 100px;
+    float: left;
+    text-align: center;
+    line-height: 100px;
+}
+ul li a{
+    font-size: 21px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+} 
+ul li a:hover{
+    color: orangered;
+    font-size: 23px;
+}
+.out2{
+    border: solid 1px;
+    height: 500px;
+    background-image: url(burger2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1350px 500px;
+}
+#Welcome{
+    color: white;
+    font-size: 90px;
+    margin-top: 50px;
+    text-shadow: 3px 3px 5px;
+}
+#Taste{
+    color: white;
+    font-size: 35px;
+    margin-left: 50px;
+    margin-top: 23px;
+}
+#Menu{
+    margin-left: 50px;
+    margin-top: 21px;
+    height: 50px;
+    width: 200px;
+    background-color: orangered;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+#Menu:hover{
+    background-color: gold;
+}
+.out3{
+    border: solid 1px;
+    height: 600#px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+#in3,#in4{
+    border: solid 1px;
+    height: 600px;
+}
+#in3{
+    width: 400px;
+}
+#in4{
+    width: 500px;
+}
+#about{
+    font-size: 45px;
+    margin-top: 40px;
+    color: white;
+}
+#text1{
+    font-size: 23px;
+    color: white;
+}
+.out4{
+    border: solid 1px;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+#in5,#in6,#in7{
+    border: solid 1px;
+    height: 600px;
+    width: 350px;
+}
+#img1{
+    margin-top: 60px;
+}
+#img2{
+    margin-top: 20px;
+}
+#img3{
+    margin-top: 60px;
+}
+#menu1{
+    color: beige;
+    text-align: center;
+}
+#menu2{
+    color: beige;
+    text-align: center;
+}
